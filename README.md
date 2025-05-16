@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **- Python programming - Data Science fundamentals - Concepts of Artificial Intelligence - Exploring different tech fields like Web Development**
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
