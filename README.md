@@ -1,5 +1,14 @@
 # 💫 About Me:
-💻 BTech CSE Student | Exploring Data Science & AI | Passionate Learner in Tech & Emerging Fields<br>🌱 I’m currently learning - Python programming - Data Science fundamentals - Concepts of Artificial Intelligence - Exploring different tech fields like Web Development<br>
+💻 BTech CSE Student | Exploring Data Science & AI | Passionate Learner in Tech & Emerging Fields<br>🌱 👋 Hi, I'm a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
+
+I am currently in the learning phase, focusing on building strong fundamentals and applying concepts through hands-on practice and projects. I enjoy learning by doing, experimenting with ideas, and improving step by step.
+
+My repositories mainly reflect my learning journey, including practice projects, experiments, and implementations of concepts I am studying. The goal is continuous improvement rather than perfection.
+
+I am actively preparing for internships and opportunities that allow me to gain real-world experience, learn from challenges, and grow as a tech professional.
+
+📌 Always open to learning, feedback, and collaboration.
+<br>
 
 
 ## 🌐 Socials:
