@@ -1,6 +1,7 @@
 # 💫 About Me:
 AI, ML & Data Science Learner | CSE Student 💻<br>
-👋 Hi, I'm a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
+<br>
+Hi, I'm a Computer Science Engineering student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
 
 I am currently in the learning phase, focusing on building strong fundamentals and applying concepts through hands-on practice and projects. I enjoy learning by doing, experimenting with ideas, and improving step by step.
 
